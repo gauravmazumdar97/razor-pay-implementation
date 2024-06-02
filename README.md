@@ -16,8 +16,8 @@ Before you start, ensure you have Node.js and npm installed.
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/your-repo-name.git
-    cd your-repo-name
+    git clone https://github.com/gauravmazumdar97/razor-pay-implementation
+    cd razor-pay-implementation
     ```
 
 2. **Install the dependencies:**
