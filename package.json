@@ -1,0 +1,29 @@
+{
+  "name": "stripe-implementation",
+  "version": "1.0.0",
+  "description": "In this project i have implemented the stripe in nodejs project. Feel free to clone the project and you must change the credentials with yours.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gauravmazumdar97/stripe-implementation.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gauravmazumdar97/stripe-implementation/issues"
+  },
+  "homepage": "https://github.com/gauravmazumdar97/stripe-implementation#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "joi": "^17.13.1",
+    "node": "^20.14.0",
+    "nodemon": "^3.1.2",
+    "razorpay": "^2.9.4",
+    "stripe": "^15.8.0"
+  }
+}
